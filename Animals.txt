@@ -5,3 +5,5 @@ Frog
 Deal
 Volf
 Fox
+Horse
+Rabbit
